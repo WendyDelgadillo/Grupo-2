@@ -1,0 +1,1 @@
+az vm delete --resource-group PRACTICAS --name VM1

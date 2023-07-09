@@ -1,0 +1,1 @@
+az vm stop --resource-group PRACTICAS --name VM1

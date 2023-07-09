@@ -1,0 +1,1 @@
+az network vnet peering delete --resource-group PRACTICAS --name VNET2-to-VNET1
