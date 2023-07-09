@@ -1,0 +1,1 @@
+az network vnet peering list --resource-group PRACTICAS --vnet-name VNET1 --query "[].{Name:name, Resource:resourceGroup, PeeringState:peeringState, AllowVnetAccess:allowVirtualNetworkAccess}" --output table

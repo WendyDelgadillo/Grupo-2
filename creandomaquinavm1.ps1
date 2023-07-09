@@ -1,0 +1,1 @@
+vm create --resource-group PRACTICAS --name VM1 --location eastus --vnet-name VNET1 --subnet SubNet1 --image UbuntuLTS --size Standard_DS1_v2 --authentication-type ssh --generate-ssh-keys --admin-username justo

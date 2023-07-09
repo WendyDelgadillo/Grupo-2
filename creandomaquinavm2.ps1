@@ -1,0 +1,1 @@
+az vm create --resource-group PRACTICAS --name VM2 --location westus --vnet-name VNET2 --subnet SubNet2 --image UbuntuLTS --size Standard_DS1_v2 --authentication-type ssh --generate-ssh-keys --admin-username kendall
