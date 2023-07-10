@@ -20,9 +20,9 @@ Tecnologias Utilizadas
 
 Para la elaboracion del proyecto de utilizaron dos Herramientas importantes como son Microsoft Azure CLI y gitHub:
 
-    -> Azure CLI es un programa de línea de comandos multiplataforma que se conecta a Azure y ejecuta comandos administrativos en los recursos de Azure, como maquinas virtuales, cuentas de almacenamiento, aplicaciones web, base de datos, redes virtuales, etc...
+Azure CLI es un programa de línea de comandos multiplataforma que se conecta a Azure y ejecuta comandos administrativos en los recursos de Azure, como maquinas virtuales, cuentas de almacenamiento, aplicaciones web, base de datos, redes virtuales, etc...
 
-    -> Por otro lado, gitHub es un servicio basado en la nube que aloja un sistema de control. Este permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso. El objetivo de gitHub, es permitir que los usuarios puedan realizar proyectos en grupo, donde cada uno puede aportar sus ideas sin importar la distancia de manera fácil, sencilla y ordenada.
+Por otro lado, gitHub es un servicio basado en la nube que aloja un sistema de control. Este permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso. El objetivo de gitHub, es permitir que los usuarios puedan realizar proyectos en grupo, donde cada uno puede aportar sus ideas sin importar la distancia de manera fácil, sencilla y ordenada.
 
 Descripcion del Proyecto
 
