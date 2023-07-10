@@ -1,0 +1,1 @@
+az network vnet create --resource-group PRACTICAS --name VNET2 --address-prefixes 10.2.0.0/16 --subnet-name SubNet2 --subnet-prefixes 10.2.1.0/24 --location westus
