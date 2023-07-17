@@ -2,6 +2,7 @@ Repositorio Virtual para la Clase de $RESOURCE_GROUP_NAME de Especializacion III
 Configuración de Peering entre 2 Maquinas Virtuales ubicadas en regiones distintas
 
 AUTORES
+
     -> Justo Gabriel Huete Martinez
     -> Kendall Roberto Aragon Ñurinda
     -> Wendy Madelin Delgadillo Luna
@@ -9,6 +10,7 @@ AUTORES
     -> Patrick Alexander Wilson
 
 Para la creacion del contenido en este repositorio, se tomaron en cuenta las siguientes instrucciones:
+
     -> Configuracion de dos VNETs en regiones de Azure distintas (eastus1  y westus1)
     -> Configuracion del VNET Peering
     -> Creacion de dos VMs una en cada VNET
@@ -31,24 +33,30 @@ El objetivo de este repositorio, es proporcionar un lugar centralizado para alma
 Flujo de Trabajo usando GIT
 
 Proporcionarle a GIT nustro usuario y correo:
+
     -> "git config --global user.name" y "git config --global user.email"
 
 Clonar el repositorio existente de github:
+
     -> git clone https://github.com/WendyDelgadillo/Grupo-2.git
 
 Trabajar en una Rama
+
     -> git branch Rama_Grupo2
     -> git checkout Rama_Grupo2
 
 Realizar cambios y confirmarlos
+
     -> git status
     -> git add .
     -> git commit -m "Commit-Ejemplo"
 
 Actualizar el Repositorio Remoto
+
     -> git push origin Rama_Grupo2
 
 Obtener Cambios del Repositorio Remoto
+
     -> git pull origin Rama_Grupo2
 
 En la realizacion de este proyecto intervenimos 5 autores, por lo que, cada uno creo su rama individualmente, independiente de la rama "master"
