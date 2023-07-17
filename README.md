@@ -1,4 +1,4 @@
-Repositorio Virtual para la Clase de Practicas de Especializacion III - Grupo#2
+Repositorio Virtual para la Clase de $RESOURCE_GROUP_NAME de Especializacion III - Grupo#2
 Configuración de Peering entre 2 Maquinas Virtuales ubicadas en regiones distintas
 
 AUTORES
@@ -19,7 +19,7 @@ Para la creacion del contenido en este repositorio, se tomaron en cuenta las sig
 Tecnologias Utilizadas
 
 Para la elaboracion del proyecto de utilizaron dos Herramientas importantes como son Microsoft Azure CLI y gitHub:
-
+git 
 Azure CLI es un programa de línea de comandos multiplataforma que se conecta a Azure y ejecuta comandos administrativos en los recursos de Azure, como maquinas virtuales, cuentas de almacenamiento, aplicaciones web, base de datos, redes virtuales, etc...
 
 Por otro lado, gitHub es un servicio basado en la nube que aloja un sistema de control. Este permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso. El objetivo de gitHub, es permitir que los usuarios puedan realizar proyectos en grupo, donde cada uno puede aportar sus ideas sin importar la distancia de manera fácil, sencilla y ordenada.
